@@ -38,6 +38,12 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </h2>
 
+<h2 align="center">
+  <b>🗄🔌Hardware & IoT</b><br>
+  <br>
+   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+</h2>
+
 ---
 <h1 align="center">
   <b>📊 GitHub Stats</b>
