@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sharvesh</h1>
-<h3 align="center">Student</h3>
+<h1 align="left">Hi 👋, I'm Sharvesh</h1>
+<h3 align="left">Student</h3>
 
 ---
 
-<h1 align="center">
+<h1 align="left">
   <b>🛠️ Languages & Tools</b>
 </h1>
 
-<h2 align="center">
+<h2 align="left">
   <b>🚀 Programming</b><br>
   <br>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </h2>
 
-<h2 align="center">
+<h2 align="left">
   <b>🎨 Frontend</b><br>
   <br>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -23,13 +23,13 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </h2>
 
-<h2 align="center">
+<h2 align="left">
   <b>🗄️ Databases</b><br>
   <br>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </h2>
 
-<h2 align="center">
+<h2 align="left">
   <b>⚙️ Tools</b><br>
   <br>
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -38,53 +38,57 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </h2>
 
-<h2 align="center">
-  <b>🗄🔌Hardware & IoT</b><br>
+<h2 align="left">
+  <b>🗄🔌 Hardware & IoT</b><br>
   <br>
-   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
 </h2>
 
 ---
-<h1 align="center">
+
+<h1 align="left">
   <b>📊 GitHub Stats</b>
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=SharveshC&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues" alt="Sharvesh's GitHub stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=SharveshC&theme=tokyonight" alt="Sharvesh's GitHub streak" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharveshC&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
-<h1 align="center">
+
+<h1 align="left">
   <b>🏆 GitHub Trophies</b>
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SharveshC&theme=tokyonight&row=1&column=7" alt="Sharvesh's GitHub trophies" />
 </p>
 
 ---
-<h1 align="center">
+
+<h1 align="left">
   <b>📈 GitHub Activity</b>
 </h1>
 
-<p align="center">
+<p align="left">
   <img src="https://activity-graph.vercel.app/graph?username=SharveshC&theme=react-dark" alt="Sharvesh's GitHub activity graph" />
 </p>
 
 ---
-<h1 align="center">
+
+<h1 align="left">
   <b>📫 Connect with Me</b>
 </h1>
 
-<p align="center">
+<p align="left">
   <a href="mailto:sharveshchandrasekkhar@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
