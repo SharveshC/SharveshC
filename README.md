@@ -1,7 +1,7 @@
 <h1 align="center">Sharvesh C</h1>
 <h3 align="center">Student</h3>
-
-## Tech Stack
+ 
+<h1>Tech Stack</h1>
 
 <center><h3>Languages</h3></center>
 <p align="center">
