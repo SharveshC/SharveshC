@@ -1,18 +1,6 @@
 <h1 align="center">Sharvesh C</h1>
 <h3 align="center">Student</h3>
 
----
-
-## About Me
-
-- Student focused on building strong foundations in software development  
-- Interested in backend systems and embedded technologies  
-- Currently improving JavaScript and backend architecture skills  
-- Actively building practical projects  
-- Enjoy turning ideas into working systems  
-
----
-
 ## Tech Stack
 
 <!-- Languages -->
