@@ -34,15 +34,15 @@
 <h1 align="left"><b>📊 GitHub Stats</b></h1>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxel18&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SharveshC&show_icons=true&theme=tokyonight&count_private=true&hide=prs,issues"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=oxel18&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=SharveshC&theme=tokyonight"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxel18&layout=compact&theme=tokyonight&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharveshC&layout=compact&theme=tokyonight&langs_count=10"/>
 </p>
 
 ---
@@ -50,7 +50,7 @@
 <h1 align="left"><b>🏆 GitHub Trophies</b></h1>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=oxel18&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SharveshC&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 <h1 align="left"><b>📈 GitHub Activity</b></h1>
 
 <p align="left">
-  <img src="https://activity-graph.vercel.app/graph?username=oxel18&theme=react-dark"/>
+  <img src="https://activity-graph.vercel.app/graph?username=SharveshC&theme=react-dark"/>
 </p>
 
 ---
