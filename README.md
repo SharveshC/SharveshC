@@ -3,7 +3,7 @@
 
 ## Tech Stack
 
-<h3>Languages</h3>
+<center><h3>Languages</h3></center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
@@ -14,7 +14,7 @@
 
 <br/>
 
-<h3>Frontend and Backend</h3>
+<center><h3>Frontend and Backend</h3></center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
@@ -25,7 +25,7 @@
 
 <br/>
 
-<h3>Database and Cloud</h3>
+<center><h3>Database and Cloud</h3></center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
@@ -35,7 +35,7 @@
 
 <br/>
 
-<h3>Tools</h3>
+<center><h3>Tools</h3></center>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
