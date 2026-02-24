@@ -1,5 +1,5 @@
 <h1 align="center">Sharvesh C</h1>
-<h3 align="center">Student • Software Developer • Embedded Systems Enthusiast</h3>
+<h3 align="center">Student</h3>
 
 ---
 
