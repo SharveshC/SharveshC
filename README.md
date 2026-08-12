@@ -1,72 +1,77 @@
-<h1 align="center">Sharvesh C</h1>
-<h3 align="center">Student</h3>
- 
-<h1>Tech Stack</h1>
-
-<center><h3>Languages</h3></center>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45"/>
-</p>
-
-<br/>
-
-<center><h3>Frontend and Backend</h3></center>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="45"/>
-</p>
-
-<br/>
-
-<center><h3>Database and Cloud</h3></center>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
-</p>
-
-<br/>
-
-<center><h3>Tools</h3></center>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/obsidian.svg" height="45"/>
-</p>
-
----
-
-## GitHub Statistics
+<h1 align="center">Hey 👋 I'm Sharvesh C</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SharveshC&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharveshC&layout=compact&theme=default&hide_border=true" height="165"/>
+  Computer Science Undergraduate • Software Builder • Developer Tools Enthusiast
 </p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharveshC&theme=github-light&hide_border=true"/>
-</p>
-
----
-
-## Connect
 
 <p align="center">
   <a href="mailto:sharveshchandrasekkhar@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/sharvesh-c-95b272312/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sharvesh-c-95b272312/">LinkedIn</a> 
+</p>
+
+---
+
+## 📌 About Me
+
+* 🎓 Computer Science undergrad at **Amrita Vishwa Vidyapeetham**
+* 🛠️ Enjoy building software, developer tools and practical applications
+* 🧠 Interested in software engineering, algorithms, and artificial intelligence
+* 🔍 Currently learning by building, experimenting, and improving through projects
+
+---
+
+<h2 align="center">🧰 Technical Skills</h2>
+
+<h3 align="center">👨‍💻 Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,php,html,css" />
+</p>
+
+<h3 align="center">🌐 Frameworks & Libraries</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,flask,django,bootstrap" />
+</p>
+
+<h3 align="center">🗄️ Databases & Cloud</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,sqlite" />
+</p>
+
+
+<h3 align="center">🛠️ Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell" />
+</p>
+
+
+---
+
+
+## 📊 GitHub Statistics
+
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=SharveshC&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SharveshC&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SharveshC&theme=github&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:sharveshchandrasekkhar@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sharvesh-c-95b272312/">💼 LinkedIn</a>
 </p>
