@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Sharvesh C</h1>
 
 <p align="center">
-  Computer Science Undergraduate • Software Builder • Developer Tools Enthusiast
+  Computer Science Undergraduate 
 </p>
 
 <p align="center">
