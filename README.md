@@ -15,7 +15,7 @@
 
 * 🎓 Computer Science undergrad at **Amrita Vishwa Vidyapeetham**
 * 🛠️ Enjoy building software, developer tools and practical applications
-* 🧠 Interested in software engineering, algorithms, and artificial intelligence
+* 🧠 Interested in Web Development and Backend Engineering
 * 🔍 Currently learning by building, experimenting, and improving through projects
 
 ---
@@ -25,26 +25,26 @@
 <h3 align="center">👨‍💻 Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts,php,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" />
 </p>
 
 <h3 align="center">🌐 Frameworks & Libraries</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,django,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,flask,django,bootstrap,tailwind,html,css" />
 </p>
 
 <h3 align="center">🗄️ Databases & Cloud</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,supabase,sqlite" />
 </p>
 
 
 <h3 align="center">🛠️ Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,powershell" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 
