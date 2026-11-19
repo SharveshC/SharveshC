@@ -11,15 +11,6 @@
 
 ---
 
-## 📌 About Me
-
-* 🎓 Computer Science undergrad at **Amrita Vishwa Vidyapeetham**
-* 🛠️ Enjoy building software, developer tools and practical applications
-* 🧠 Interested in Web Development and Backend Engineering
-* 🔍 Currently learning by building, experimenting, and improving through projects
-
----
-
 <h2 align="center">🧰 Technical Skills</h2>
 
 <h3 align="center">👨‍💻 Languages</h3>
@@ -47,8 +38,15 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
-
 ---
+
+## 🌱 Currently Exploring
+
+- ⚙️ Advanced Backend Development and REST API Design
+- 🏗️ System Design and Scalable Application Architecture
+- ☁️ Cloud Technologies and Backend Integrations
+- 🛠️ Developer Tools and Workflow Automation
+
 
 
 ## 📊 GitHub Statistics
@@ -60,6 +58,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SharveshC&theme=github-dark&hide_border=true" />
+</p>
 
 ## 📈 Contribution Activity
 
