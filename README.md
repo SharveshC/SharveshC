@@ -42,7 +42,7 @@
 
 ## 🌱 Currently Exploring
 
-- ⚙️ Advanced Backend Development and REST API Design
+- ⚙️ Backend Development and REST API Design
 - 🏗️ System Design and Scalable Application Architecture
 - ☁️ Cloud Technologies and Backend Integrations
 - 🛠️ Developer Tools and Workflow Automation
